@@ -1,0 +1,16 @@
+Tabel user2
+id 
+name
+username 
+email 
+password 
+api_key 
+activation_status(status) 
+created_at 
+role
+
+config.php -> db.php
+DBConnect -> koneksiDb
+DBhandler ->UserDB
+
+user admin :: admin123
